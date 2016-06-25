@@ -191,6 +191,8 @@ didFailAutocompleteWithError:(NSError *)error {
     NSLog(@"Error: %@", [error description]);
 }
 
+// this is sample project
+
 // Turn the network activity indicator on and off again.
 - (void)didRequestAutocompletePredictionsForResultsController:
 (GMSAutocompleteResultsViewController *)resultsController {
